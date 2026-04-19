@@ -1,0 +1,12 @@
+
+# requirements.txt - erList3r
+# Targeted Password List Generator (2026)
+
+colorama>=0.4.6          # Colored terminal output
+
+# Optional / Future dependencies (commented)
+# tqdm>=4.66.0           # Progress bar (planned)
+# argparse               # Already built-in with Python
+
+# Installation:
+# pip install -r requirements.txt
