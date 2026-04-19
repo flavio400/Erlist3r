@@ -35,6 +35,3 @@ python erlist3r.py -i
 
 # Interactive mode + RockYou top 200
 python erlist3r.py -i -r
-
-
-![Screenshot](Screenshot 2026-04-19 192102.png)
