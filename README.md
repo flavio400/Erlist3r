@@ -33,9 +33,5 @@ erList3r combines personal information (names, dates, numbers, etc.) with advanc
 # Basic interactive mode
 python erlist3r.py -i
 
-## Image
-
-![Screenshot]("C:\Users\Flavio400\Pictures\Screenshots\Screenshot 2026-04-19 192102.png")
-
 # Interactive mode + RockYou top 200
 python erlist3r.py -i -r
